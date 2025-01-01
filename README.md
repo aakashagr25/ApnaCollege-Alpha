@@ -1,5 +1,5 @@
 # Alpha
-Alpha - Java Placement Course
+Alpha - Java Placement Courses
 
 
 ## Message for AlphaITs <3
